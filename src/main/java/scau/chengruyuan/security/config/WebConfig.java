@@ -18,19 +18,15 @@ import org.springframework.web.servlet.view.InternalResourceViewResolver;
  * @Version 1.0.0
  **/
 @Configuration
-@EnableWebMvc
-@ComponentScan(basePackages = "scau.chengruyuan.security"
-        ,includeFilters = {@ComponentScan.Filter(type = FilterType.ANNOTATION,value =
-        Controller.class)})
 public class WebConfig implements WebMvcConfigurer {
     //视频解析器
-    @Bean
-    public InternalResourceViewResolver viewResolver(){
-        InternalResourceViewResolver viewResolver = new InternalResourceViewResolver();
-        viewResolver.setPrefix("/WEB‐INF/views/");
-        viewResolver.setSuffix(".jsp");
-        return viewResolver;
-    }
+//    @Bean
+//    public InternalResourceViewResolver viewResolver(){
+//        InternalResourceViewResolver viewResolver = new InternalResourceViewResolver();
+//        viewResolver.setPrefix("/WEB‐INF/views/");
+//        viewResolver.setSuffix(".jsp");
+//        return viewResolver;
+//    }
 
     /**
      * 拦截后转发的设置 (默认就是/login)

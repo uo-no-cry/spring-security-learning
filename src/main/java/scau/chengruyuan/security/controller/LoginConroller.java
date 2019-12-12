@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @Version 1.0.0
  **/
 @RestController
-public class TestConroller {
+public class LoginConroller {
 
 
     @RequestMapping(value = "/login‐success", produces = "text/plain;charset=UTF-8")
