@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe73d161-5b86-418b-8c7c-db4fa6ebab04" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/scau/chengruyuan/security/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/scau/chengruyuan/security/config/WebConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/scau/chengruyuan/security/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/scau/chengruyuan/security/config/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/scau/chengruyuan/security/controller/LoginConroller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/scau/chengruyuan/security/controller/LoginConroller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/scau/chengruyuan/security/model/AuthenticationRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/scau/chengruyuan/security/model/UserDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/snackshop-security.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/scau/chengruyuan/security/config/WebConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/scau/chengruyuan/security/config/WebConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/scau/chengruyuan/security/config/WebSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/scau/chengruyuan/security/config/WebSecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/scau/chengruyuan/security/controller/LoginConroller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/scau/chengruyuan/security/controller/LoginConroller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/scau/chengruyuan/security/model/AuthenticationRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/scau/chengruyuan/security/model/UserDetails.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\cry\Desktop\snackshop-security\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\dev\maven_repo" />
+        <option name="userSettingsFile" value="C:\dev\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UhGUqCokswjQXEsvhCXmgXLfyp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575798965456" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="scau.chengruyuan.security.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\cry\Desktop\snackshop-security\src\main" />
+      <recent name="C:\Users\cry\Desktop\snackshop-security\src\main\resources\statics" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="TestBCrypt.t1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="snackshop-security" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestBCrypt" />
+      <option name="METHOD_NAME" value="t1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="snackshop-security" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scau.chengruyuan.security.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="scau.chengruyuan.security.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Application" />
+        <item itemvalue="JUnit.TestBCrypt.t1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe73d161-5b86-418b-8c7c-db4fa6ebab04" name="Default Changelist" comment="" />
+      <created>1575797522569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575797522569</updated>
+      <workItem from="1575797525301" duration="1442000" />
+      <workItem from="1575801441756" duration="169000" />
+      <workItem from="1575801928124" duration="2662000" />
+      <workItem from="1575806130515" duration="212000" />
+      <workItem from="1575806367814" duration="2895000" />
+      <workItem from="1576152314389" duration="3045000" />
+      <workItem from="1576155387810" duration="2323000" />
+      <workItem from="1576549815363" duration="15454000" />
+      <workItem from="1576638017854" duration="318000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1576567020046">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="765" y="234" key="#com.intellij.ide.util.MemberChooser/-1920.0.1536.840/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1576567020046" />
+    <state x="2456" y="116" key="CommitChangelistDialog2" timestamp="1576638394014">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2456" y="116" key="CommitChangelistDialog2/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1576638394014" />
+    <state width="1877" height="334" key="GridCell.Tab.0.bottom" timestamp="1576568566167">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="334" key="GridCell.Tab.0.bottom/-1920.0.1536.840/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1576568566167" />
+    <state width="1877" height="334" key="GridCell.Tab.0.center" timestamp="1576568566167">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="334" key="GridCell.Tab.0.center/-1920.0.1536.840/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1576568566167" />
+    <state width="1877" height="334" key="GridCell.Tab.0.left" timestamp="1576568566167">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="334" key="GridCell.Tab.0.left/-1920.0.1536.840/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1576568566167" />
+    <state width="1877" height="334" key="GridCell.Tab.0.right" timestamp="1576568566167">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="334" key="GridCell.Tab.0.right/-1920.0.1536.840/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1576568566167" />
+    <state width="1877" height="351" key="GridCell.Tab.1.bottom" timestamp="1576568566162">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="351" key="GridCell.Tab.1.bottom/-1920.0.1536.840/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1576568566162" />
+    <state width="1877" height="351" key="GridCell.Tab.1.center" timestamp="1576568566162">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="351" key="GridCell.Tab.1.center/-1920.0.1536.840/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1576568566162" />
+    <state width="1877" height="351" key="GridCell.Tab.1.left" timestamp="1576568566162">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="351" key="GridCell.Tab.1.left/-1920.0.1536.840/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1576568566162" />
+    <state width="1877" height="351" key="GridCell.Tab.1.right" timestamp="1576568566162">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="351" key="GridCell.Tab.1.right/-1920.0.1536.840/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1576568566162" />
+    <state width="1877" height="351" key="GridCell.Tab.2.bottom" timestamp="1576568566162">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="351" key="GridCell.Tab.2.bottom/-1920.0.1536.840/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1576568566162" />
+    <state width="1877" height="351" key="GridCell.Tab.2.center" timestamp="1576568566162">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="351" key="GridCell.Tab.2.center/-1920.0.1536.840/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1576568566162" />
+    <state width="1877" height="351" key="GridCell.Tab.2.left" timestamp="1576568566162">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="351" key="GridCell.Tab.2.left/-1920.0.1536.840/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1576568566162" />
+    <state width="1877" height="351" key="GridCell.Tab.2.right" timestamp="1576568566162">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="351" key="GridCell.Tab.2.right/-1920.0.1536.840/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1576568566162" />
+    <state x="531" y="186" key="Registry" timestamp="1576552900267">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="531" y="186" key="Registry/-1920.0.1536.840/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1576552900267" />
+    <state x="422" y="90" key="SettingsEditor" timestamp="1576552896331">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="422" y="90" key="SettingsEditor/-1920.0.1536.840/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1576552896331" />
+    <state x="681" y="266" width="582" height="524" key="StructurePopup" timestamp="1576562053634">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="681" y="266" width="582" height="524" key="StructurePopup/-1920.0.1536.840/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1576562053634" />
+    <state x="2012" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1576638521979">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2012" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1576638521979" />
+    <state x="491" y="134" key="new project wizard" timestamp="1575802225372">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="491" y="134" key="new project wizard/-1920.0.1536.840/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1575802225372" />
+    <state x="616" y="243" key="run.anything.popup" timestamp="1576552397190">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="243" key="run.anything.popup/-1920.0.1536.840/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1576552397190" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1576557681000">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/-1920.0.1536.840/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1576557681000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.2.1.RELEASE/spring-security-core-5.2.1.RELEASE-sources.jar!/org/springframework/security/authentication/dao/DaoAuthenticationProvider.java</url>
+          <line>160</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20583941" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

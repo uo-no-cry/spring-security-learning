@@ -2,6 +2,8 @@ server:
   port: 8080
   servlet:
     context-path: /security-springboot
+    session:
+      timeout: 3600s
 spring:
   application:
     name: security-springboot
@@ -9,3 +11,8 @@ spring:
     view:
       prefix: /WEB-INF/view/
       suffix: .jsp
+  datasource:
+    url: jdbc:mysql://localhost:3306/user_db?useSSL=false
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: root
